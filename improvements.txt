@@ -1,0 +1,7 @@
+Till november end:
+        hand movement
+        machine learning
+        managing APIs
+        facial scan
+        api.ai
+        pc control improvements
